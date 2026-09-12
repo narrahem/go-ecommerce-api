@@ -1,0 +1,17 @@
+# Compiled binaries
+/bin/
+/dist/
+*.exe
+main
+
+# Environment variables
+.env
+*.env.local
+
+# IDEs & System files
+.DS_Store
+.idea/
+.vscode/
+
+# Logs
+*.log
